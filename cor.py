@@ -1,6 +1,6 @@
-import random
-import pandas
-import matplotlib.pyplot as plt
+import random #  импортирует библиотеку random для генерации случайных чисел.
+import pandas # импортирует библиотеку pandas, которая предоставляет функционал для работы с таблицами и данными в Python.
+import matplotlib.pyplot as plt # импортирует подбиблиотеку pyplot из библиотеки matplotlib, которая позволяет строить графики и диаграммы.
 
 MIN_SIZE = 4
 ALPHABET = 'abcdefghijklmnopqrstuvwxyz'
